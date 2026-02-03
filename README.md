@@ -17,4 +17,5 @@
 ## Schematic
 ![schematic](img/schematics.jpg)
 
-
+## The shutter
+![image](img/accrocchio.jpg)
