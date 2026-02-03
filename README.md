@@ -17,7 +17,7 @@
 
 ## Usage
 
-1) Connect the camera withto the circuit with USB and shutter connector.
+1) Connect the camera to the circuit with USB and shutter connector.
 2) Connect the circuit to two USB port, one for CH341 serial to usb adapter, the other for the camera.
 3) Set RTS to high and DTR to low, camera connected in USB mode.
 4) Use the pktriggercord-cli to set the camera, shoting mode, iso, aperture, speed, focus, etc..
