@@ -15,6 +15,6 @@
 ### Putting it LOW / GND set the camera in normal state.
 
 ## Schematic
-
+![schematic)(img/schematics.jpg)
 
 
