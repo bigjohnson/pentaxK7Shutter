@@ -11,7 +11,7 @@
 ## I used usb to serial converter ch341 pin RTS connected to the usb +5V of the camera.
 ### Putting it at HIGH / +5V the camera is connected to PC as usb drive.
 ### Putting it at LOW / GND set the camera in normal state.
-### I connected also the DTR pin to a resistor and a 2N2222 transistor conneted to the remote shoter connector.
+### I connected also the DTR pin to a resistor and a 2N2222 transistor conneted to the remote shutter connector.
 ### Putting it at HIGH / 5V take the picture.
 ### Putting it LOW / GND set the camera in normal state.
 
