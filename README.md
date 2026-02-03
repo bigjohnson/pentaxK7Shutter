@@ -3,7 +3,7 @@
 ## A pentax K7 ibrid shutter that resolve pktriggercord-cli issues
 
 ### I created this project because some issues found with pktriggercord-cli with my Pentax K7.
-### When i use the pktriggercord-cli program to donload and delete images from memory sometimes it hang the camera, and sometimes insert strange colors in downloaded files.
+### When i use the pktriggercord-cli program to shoot, download and delete images from memory sometimes it hang the camera, and sometimes insert strange colors in downloaded files.
 ### Other commands do not create problems.
 ### So I decidet to use an hibryd system, that setup camera parameters with pktriggercord-cli, but take the picture with the wired remote shutter to the SD, then download the images from the camera usb drive, not using pktriggercord-cli.
 ### To do so, I need an automatic way to disconnect and disconnect usb from K7 to PC.
