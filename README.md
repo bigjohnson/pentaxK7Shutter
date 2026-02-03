@@ -19,3 +19,6 @@
 
 ## The shutter
 ![image](img/accrocchio.jpg)
+
+## Shutter circuit
+![shuttercircuit](img/pentaxshutter.jpg)
