@@ -6,7 +6,7 @@
 ### When i use the pktriggercord-cli program to shoot, download and delete images from memory sometimes it hang the camera, and sometimes insert strange colors in downloaded files.
 ### Other commands do not create problems.
 ### So I decidet to use an hibryd system, that setup camera parameters with pktriggercord-cli, but take the picture with the wired remote shutter to the SD, then download the images from the camera usb drive, not using pktriggercord-cli.
-### To do so, I need an automatic way to disconnect and disconnect usb from K7 to PC.
+### To do so, I need an automatic way to connect and disconnect usb from K7 to PC.
 
 ## I used usb to serial converter ch341 pin RTS connected to the usb +5V of the camera.
 ### Putting it at HIGH / +5V the camera is connected to PC as usb drive.
