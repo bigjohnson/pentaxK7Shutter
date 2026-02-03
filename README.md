@@ -28,7 +28,9 @@
 
 ## Schematic
 ![schematic](img/schematics.jpg)
-The +5V USB camera input that must be connected to the RTS pin is red color. 
+The +5V USB camera input that must be connected to the RTS pin is red color.
+
+The auto focus remote input is not used because the pktriggercord-cli command work fine.
 
 ## The shutter
 ![image](img/accrocchio.jpg)
