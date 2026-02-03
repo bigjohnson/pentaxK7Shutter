@@ -28,6 +28,7 @@
 
 ## Schematic
 ![schematic](img/schematics.jpg)
+The +5V USB camera input that must be connected to the RTS pin is red color. 
 
 ## The shutter
 ![image](img/accrocchio.jpg)
