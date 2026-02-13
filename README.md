@@ -2,6 +2,8 @@
 
 # I make a lot of try but after some continues shutter.sh cycles the camera hang, no way to have a long term stability...
 
+# Could be used as a shutter controller without USB.
+
 ## A pentax K7 ibrid shutter that don't resolve pktriggercord-cli issues
 
 ### I created this project because some issues found with pktriggercord-cli with my Pentax K7.
