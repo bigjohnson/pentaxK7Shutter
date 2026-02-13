@@ -1,6 +1,8 @@
 # pentaxK7Shutter
 
-## A pentax K7 ibrid shutter that resolve pktriggercord-cli issues
+# I make a lot of try but after some continues shutter.sh cycles the camera hang, no way to have a long term stability...
+
+## A pentax K7 ibrid shutter that don't resolve pktriggercord-cli issues
 
 ### I created this project because some issues found with pktriggercord-cli with my Pentax K7.
 ### When i use the pktriggercord-cli program to shoot, download and delete images from memory sometimes it hang the camera, and sometimes insert strange colors in downloaded files.
