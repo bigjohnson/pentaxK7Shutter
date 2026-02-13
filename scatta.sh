@@ -11,7 +11,7 @@ echo ${APERTURA}
 
 echo unmounting camera
 sudo umount camera
-for EXPOSURE in  0 +0.33 -0.33 +.0.66 -0.66 +1 -1 +1.33 -1.33 +1.66 -1.66 +2 -2
+for EXPOSURE in  0 +0.33 -0.33 +0.66 -0.66 +1 -1 +1.33 -1.33 +1.66 -1.66 +2 -2
 do
         echo ${EXPOSURE}
         pktriggercord-cli --model=K-7 --exposure_mode=AV --iso=100 --aperture=${APERTURA} --exposure_compensation=${EXPOSURE} --timeout=5
